@@ -14,21 +14,27 @@ code {
 }
 .container{ 
   /* background-color: #fff; */
-  background-color: #221b1b;
+  background-color: #363441;
   margin: 30px auto;
-  width: 200px;
+  width: 220px;
   padding-bottom: 0px;
   height: auto;
   line-height: 0.4em;
   border-radius: 10px;
   /* border: 1px solid black; */
 }
+.info-header{
+  text-align: left;
+  font-size: 16px;
+}
 .description{
+  font-size: 12px;
   line-height: 1.3em;
   text-align: left;
 }
 .house-img{
-  width:200px;
+  width:220px;
+  height: 200px;
   border-radius: 10px 10px 0px 0px;
 }
 .info{
@@ -47,12 +53,14 @@ a{
   text-decoration: none;
 }
 .btn{
+  font-weight: bold;
   font-weight: 400;
-  margin: 2px;
+  margin: 2px 5px;
   padding: 3px 8px;
-  color: #221b1b;
+  color: #363441;
+  border: 1px solid #fff;
   background-color: #fff;
-  border-radius: 5px;
+  border-radius: 2px;
 }
 .button{
   align-items: center;

@@ -1,5 +1,5 @@
 import React from 'react'
-import image from './images.jpg'
+import image from './girl.jpg'
 
 function Profile() {
   return (
@@ -12,7 +12,10 @@ function Profile() {
                 <button className='btn'><a href='' target='_blank'>Linkedin</a></button>
                 <button className='btn'><a href='' target='_blank'>Gitbub</a></button>
             </div>
-            <hr/>
+            <br/>
+            <h4 className='info-header'>About</h4>
+            <p className="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+            <h4 className='info-header'>Interests</h4>
             <p className="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
         </div>
    </div> 
