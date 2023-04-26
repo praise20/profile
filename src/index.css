@@ -1,5 +1,5 @@
 body {
-  background-color: #eee;
+  background-color: #a1cf95;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -14,7 +14,7 @@ code {
 }
 .container{ 
   /* background-color: #fff; */
-  background-color: #363441;
+  background-color: #374134;
   margin: 30px auto;
   width: 220px;
   padding-bottom: 0px;
@@ -57,7 +57,7 @@ a{
   font-weight: 400;
   margin: 2px 5px;
   padding: 3px 8px;
-  color: #363441;
+  color: #374134;
   border: 1px solid #fff;
   background-color: #fff;
   border-radius: 2px;
